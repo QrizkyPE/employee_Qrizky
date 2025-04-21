@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "881487209485",
+    "firebase_url": "https://testproject-1c519-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "testproject-1c519",
+    "storage_bucket": "testproject-1c519.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881487209485:android:08e391ceda880455d76144",
+        "android_client_info": {
+          "package_name": "com.example.karyawan2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCST7_Ak7QUP2UwrBFYlPMQQXz3-pPlJpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
