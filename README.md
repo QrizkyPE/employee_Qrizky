@@ -2,6 +2,6 @@
 ## UTS Pengembangan Aplikasi Bergerak II tentang Employee
 
 Aplikasi ini memperbolehkan user untuk:
-\nMelihat data karyawan yang ada
-\nMenambah data karyawan berupa nama, jabatan
-\nMenghapus data karyawan
+<br>Melihat data karyawan yang ada
+<br>Menambah data karyawan berupa nama, jabatan
+<br>Menghapus data karyawan
